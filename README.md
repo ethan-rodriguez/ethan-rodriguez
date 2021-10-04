@@ -22,14 +22,14 @@ I started my career serving in the United States Marine Corps, After an Honorabl
 Eventually, I was offered the chance to work for the Lowe's Home Improvement Assets Protection Department and jumped at the opportunity.  Working for Lowe's was highly regarded in then industry.  They had a top notch Assets Protection program that was also challenging and enabled me to continue to learn and grow. During my tenure at Lowe's I was offered the opportunity to step up as an Assistant Store Manager of challenging high-volume store and proudly accepted that role.
 
 ⭐️  TECHNICAL SPECIALTIES:
--Full Stack Development
--JavaScript-based web applications
--Javascript frameworks and libraries, such as React and Redux
--Ruby and Ruby frameworks such as Rails and Rack
--Object-Oriented programming
--Development of the Back-End Web APIs
--SQL and Object Relational Mappers
--HTML/CSS
+- Full Stack Development
+- JavaScript-based web applications
+- Javascript frameworks and libraries, such as React and Redux
+- Ruby and Ruby frameworks such as Rails and Rack
+- Object-Oriented programming
+- Development of the Back-End Web APIs
+- SQL and Object Relational Mappers
+- HTML/CSS
 
 ⭐️  OTHER AREAS OF SPECIALTY:
 - Management & Leadership
