@@ -31,6 +31,8 @@ Eventually, I was offered the chance to work for the Lowe's Home Improvement Ass
 - SQL and Object Relational Mappers
 - HTML/CSS
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 ⭐️  OTHER AREAS OF SPECIALTY:
 - Management & Leadership
 - Collaboration and Teamwork
