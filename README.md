@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez">
-
 <!--
 **ethan-rodriguez/ethan-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I’m a recent graduate of Flatiron School’s Software Engineering program. I have an extensive professional background in Retail and Loss Prevention Management where I’ve successfully managed 60+ million-dollar businesses and have lead teams of over 200 people.  I’ve also served in military as a US Marine where I was trained in avionics and electronics theory.  My experiences in retail operations exposed me to many of the issues companies face as they struggle to keep up with the pace of technology.  Those experiences drive my passion for developing applications that help businesses effectively run their day-to-day operations.
+
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez">
 
 ⭐️  TECHNICAL SPECIALTIES:
