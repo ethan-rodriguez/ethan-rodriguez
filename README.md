@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez
+
 <!--
 **ethan-rodriguez/ethan-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
