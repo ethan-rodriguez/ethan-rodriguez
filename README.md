@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 -->
 
 I'm a Software Engineer and Full-Stack Web Developer with a professional background in big box Retail Management, Loss Prevention and Security. Throughout my career, I have always been the person everyone came to for software and hardware related problems.  I would build computers for others and troubleshoot their software related problems.  A common comment that I would always receive from co-workers, friends and family was that I should make a career working with tech.  I started to really think about the possibility of working with computers when my sister recommended that I attend a coding bootcamp over a Thanksgiving dinner conversation.  So I decided to follow my heart and quit a successful retail career for the chance to do something that I enjoy.  Almost one year after that conversation I became a Flatiron School Software Engineering graduate.
@@ -31,7 +34,7 @@ Eventually, I was offered the chance to work for the Lowe's Home Improvement Ass
 - SQL and Object Relational Mappers
 - HTML/CSS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<i class="devicon-javascript-plain colored"></i>
 
 ⭐️  OTHER AREAS OF SPECIALTY:
 - Management & Leadership
