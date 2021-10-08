@@ -27,6 +27,8 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
   </ul>
 
 
+
+
 ⭐️  TECHNICAL SPECIALTIES:
 - Full Stack Development
 - JavaScript-based web applications
