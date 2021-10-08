@@ -21,10 +21,7 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez">
 
 <H3>Projects:</H3>
-  <ul>
-    <li>test</li>
-    <li>test</li>
-  </ul>
+  <h5>Movie Collector</h5>
 
 
 
