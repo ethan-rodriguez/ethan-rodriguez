@@ -21,7 +21,7 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 <H3>Projects:</H3><hr>
   <h4>Movie Collector: <a href='https://youtu.be/O9pT7q1Ku4A'>Demo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-application'>Front-end Repo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-api'>Back-end Repo</a></h4><p>An application designed for users who like to collect physical copies of movies. Each user has secure login, full CRUD capability and favorites</p>
   
-<h4>Spectacular Blogging App: <a href='https://youtu.be/p-pANUqHjIQ'>Demo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-application'>Front-end Repo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-api'>Back-end Repo</a></h4><p>An application designed for users who like to collect physical copies of movies. Each user has secure login, full CRUD capability and favorites</p>
+<h4>Spectacular Blogging App: <a href='https://youtu.be/p-pANUqHjIQ'>Demo</a> | <a href='https://github.com/ethan-rodriguez/blog-application'>Repository</a> </h4><p>A simple blogging application with secure login. Each user has full CRUD of thier posts, They can see all posts but cannot edit other users posts.</p>
 
   <hr />
 
