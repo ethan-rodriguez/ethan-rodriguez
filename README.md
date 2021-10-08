@@ -20,6 +20,9 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez">
 
+<H2>PROJECTS:</H2>
+
+
 ⭐️  TECHNICAL SPECIALTIES:
 - Full Stack Development
 - JavaScript-based web applications
