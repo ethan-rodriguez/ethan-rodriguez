@@ -20,7 +20,8 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 
 <H3>Projects:</H3><hr>
   <h4>Movie Collector: <a href='https://youtu.be/O9pT7q1Ku4A'>Demo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-application'>Front-end Repo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-api'>Back-end Repo</a></h4><p>An application designed for users who like to collect physical copies of movies. Each user has secure login, full CRUD capability and favorites</p>
-  <hr style="border: 1px dashed black;" />
+ <hr style="border-top: dotted 1px;" />
+  <hr />
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez"><br><br>
 
