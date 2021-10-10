@@ -20,8 +20,8 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 
 <H3>Projects:</H3><hr>
  <h4>:movie_camera:&emsp; Movie Collector: <a href='https://youtu.be/O9pT7q1Ku4A' target="_blank" rel="noopener noreferrer" >Demo</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-application' target="_blank" rel="noopener noreferrer">Front-end Repository</a> | <a href='https://github.com/ethan-rodriguez/movie-collector-api' target="_blank" rel="noopener noreferrer">Back-end Repository</a></h4><p>An application designed for users who like to collect physical copies of movies. Each user has secure login, full CRUD capability and favorites</p>
- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ethan-rodriguez/movie-collector-application"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ethan-rodriguez/movie-collector-api">
-  
+ <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ethan-rodriguez/movie-collector-application" alt="GitHub top language" src="https://img.shields.io/github/languages/top/ethan-rodriguez/movie-collector-api">
+ 
 <h4>:mega:&emsp; Spectacular Blogging App: <a href='https://youtu.be/p-pANUqHjIQ' target="_blank" rel="noopener noreferrer">Demo</a> | <a href='https://github.com/ethan-rodriguez/blog-application' target="_blank" rel="noopener noreferrer">Repository</a> </h4><p>A simple blogging application with secure login. Each user has full CRUD of thier posts, They can see all posts but cannot edit other users posts.</p>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ethan-rodriguez/blog-application">
 
