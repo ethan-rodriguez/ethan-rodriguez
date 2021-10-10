@@ -23,7 +23,7 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
   
 <h4>Spectacular Blogging App: <a href='https://youtu.be/p-pANUqHjIQ' target="_blank" rel="noopener noreferrer">Demo</a> | <a href='https://github.com/ethan-rodriguez/blog-application' target="_blank" rel="noopener noreferrer">Repository</a> </h4><p>A simple blogging application with secure login. Each user has full CRUD of thier posts, They can see all posts but cannot edit other users posts.</p>
 
-<h4>Inventory Management App: <a href='https://youtu.be/p-pANUqHjIQ' target="_blank" rel="noopener noreferrer">Demo</a> | <a href='https://github.com/ethan-rodriguez/blog-application' target="_blank" rel="noopener noreferrer">Repository</a> </h4><p>An application tha mimics software a retail employee would carry on their hand-held device so that they can enter UPC information and find information on items that are in stock.  They can order more product and view incoming orders.  This app uses a mock backend utilizing a db.json file.</p>
+<h4>Inventory Management App: <a href='https://youtu.be/OkBXm5hcZTg' target="_blank" rel="noopener noreferrer">Demo</a> | <a href='https://github.com/ethan-rodriguez/inventory-management-application' target="_blank" rel="noopener noreferrer">Repository</a> </h4><p>An application tha mimics software a retail employee would carry on their hand-held device so that they can enter UPC information and find information on items that are in stock.  They can order more product and view incoming orders.  This app uses a mock backend utilizing a db.json file.</p>
 
   <hr />
 
