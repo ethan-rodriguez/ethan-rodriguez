@@ -25,6 +25,8 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 
 <h4>Inventory Management App: <a href='https://youtu.be/OkBXm5hcZTg' target="_blank" rel="noopener noreferrer">Demo</a> | <a href='https://github.com/ethan-rodriguez/inventory-management-application' target="_blank" rel="noopener noreferrer">Repository</a> </h4><p>An application tha mimics software a retail employee would carry on their hand-held device so that they can enter UPC information and find information on items that are in stock.  They can order more product and view incoming orders.  This app uses a mock backend utilizing a db.json file.</p>
 
+<h4>Inspirational Quote Generator: <a href='https://youtu.be/r3Yv2LutkYE' target="_blank" rel="noopener noreferrer">Demo</a> | <a href='https://github.com/ethan-rodriguez/inventory-management-application' target="_blank" rel="noopener noreferrer">Repository</a> </h4><p>My first ever project using only JavaScript and an external API.  Users can generate random quotes, add them to a list and delete quoates from list.</p>
+
   <hr />
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ethan-rodriguez/ethan-rodriguez"><br><br>
