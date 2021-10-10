@@ -1,4 +1,4 @@
-### Welcome to my GitHub
+### :octocat: Welcome to my GitHub
 
 <!--
 **ethan-rodriguez/ethan-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
