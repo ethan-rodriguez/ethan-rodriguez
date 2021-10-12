@@ -39,7 +39,7 @@ I’m a recent graduate of Flatiron School’s Software Engineering program. I h
 ⭐️  TECHNICAL SPECIALTIES:
 - Full Stack Development
 - JavaScript-based web applications
-- Javascript frameworks and libraries, such as React and Redux
+- Javascript frameworks and libraries, such as React
 - Ruby and Ruby frameworks such as Rails and Rack
 - Object-Oriented programming
 - Development of the Back-End Web APIs
